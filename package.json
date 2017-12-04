@@ -1,0 +1,23 @@
+{
+  "name": "mychallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Hyrla Miranda",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.2.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
