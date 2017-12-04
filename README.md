@@ -1,15 +1,15 @@
-## My Challenge
+# My Challenge
 
-# Introduction
+## Introduction
 This challenge was done with the idea to show my knowledge using Protractor, the Jasmine framework and also JavaScript. It covers some tests on the Otodom website as I am also improving my experience with this tools.
 
-# Prerequisites
+## Prerequisites
 
 To run, you will need to have Node.js installed.
 Protractor uses the Jasmine test framework for its testing interface.
 This test is using a local standalone Selenium Server to control browsers. You will need to have the Java Development Kit (JDK) installed to run the standalone Selenium Server.
 
-# Setup
+## Setup
 
 Install node.js with:
 - npm install
@@ -23,7 +23,7 @@ Now start up a server with:
 To run the tests with:
 - protractor config.js
 
-# Description
+## Description
 
 login_spec.js:
 Fill in the field to login to the account and the next spec disconnects the account. Getting elements of the page on loginandlogout.po.js.
